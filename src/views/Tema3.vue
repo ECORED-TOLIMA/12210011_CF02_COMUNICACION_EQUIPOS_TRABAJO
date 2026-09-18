@@ -120,28 +120,30 @@
           .cajon.cajon.C01.color-primario.px-4.py-3
             p.mb-0 La confusión más frecuente consiste en tomar el volumen de uso como prueba de eficacia. Un canal con actividad intensa puede estar produciendo saturación en lugar de comunicación: si el equipo recibe quince mensajes diarios por el mismo medio, la cifra alta de emisiones convive con una atención cada vez menor, y el indicador de actividad oculta el problema en lugar de revelarlo.
 
-      .row.justify-content-center.mb-4
-        .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
-          .row.mb-0
-            p Todo indicador de comunicación requiere una ficha mínima que lo haga interpretable por alguien distinto de quien lo construyó. Esa ficha precisa qué se mide, con qué fórmula, de dónde sale el dato, con qué periodicidad se calcula y cuál es el valor esperado. Sin ese respaldo, dos personas pueden interpretar la misma cifra y llegar a conclusiones opuestas, porque cada una toma como base un total distinto.
-            p Un indicador queda definido, antes de empezar a calcularlo, por los siguientes elementos:
-            ul.lista-ul--color
-              li 
-                i.fas.fa-comment-dots
-                span #[b Nombre y fórmula:] qué relación expresa la cifra y entre qué valores se establece.
-              li 
-                i.fas.fa-comment-dots
-                span #[b Fuente del dato:] de qué registro o instrumento se obtiene cada término de la fórmula.
-              li 
-                i.fas.fa-comment-dots
-                span #[b Periodicidad:] cada cuánto se calcula y con qué periodos se compara.
-              li 
-                i.fas.fa-comment-dots
-                span #[b Meta y límite de alerta:] qué valor se considera adecuado y a partir de cuál se interviene.
-            p Con esos elementos ya definidos, la discusión sobre los resultados deja de girar en torno a la validez del dato y se concentra en la decisión que ese dato sugiere, que es el propósito de medir.
-        .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
-          figure
-            img(src='@/assets/curso/temas/t3/img-09.png', alt='')
+      .bg___color_2
+        .px-5
+          .row.justify-content-center.mb-4
+            .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+              .row.mb-0
+                p Todo indicador de comunicación requiere una ficha mínima que lo haga interpretable por alguien distinto de quien lo construyó. Esa ficha precisa qué se mide, con qué fórmula, de dónde sale el dato, con qué periodicidad se calcula y cuál es el valor esperado. Sin ese respaldo, dos personas pueden interpretar la misma cifra y llegar a conclusiones opuestas, porque cada una toma como base un total distinto.
+                p Un indicador queda definido, antes de empezar a calcularlo, por los siguientes elementos:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-comment-dots
+                    span #[b Nombre y fórmula:] qué relación expresa la cifra y entre qué valores se establece.
+                  li 
+                    i.fas.fa-comment-dots
+                    span #[b Fuente del dato:] de qué registro o instrumento se obtiene cada término de la fórmula.
+                  li 
+                    i.fas.fa-comment-dots
+                    span #[b Periodicidad:] cada cuánto se calcula y con qué periodos se compara.
+                  li 
+                    i.fas.fa-comment-dots
+                    span #[b Meta y límite de alerta:] qué valor se considera adecuado y a partir de cuál se interviene.
+                p Con esos elementos ya definidos, la discusión sobre los resultados deja de girar en torno a la validez del dato y se concentra en la decisión que ese dato sugiere, que es el propósito de medir.
+            .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/t3/img-09.png', alt='')
 
       p.mb-4 La tabla siguiente reúne los indicadores que se usan con más frecuencia para valorar un canal. Separa los que miden el logro del propósito de los que miden el costo de alcanzarlo, describe qué mide cada uno y advierte cómo debe interpretarse para no llegar a conclusiones equivocadas:
 
@@ -243,27 +245,29 @@
 
       p.mb-4 La cobertura tiene también una dimensión cualitativa que las cifras de alcance no registran. No basta con que el mensaje llegue: debe llegar en condiciones de ser comprendido por quien lo recibe. Un texto redactado con vocabulario técnico para un público operativo alcanza formalmente al ciento por ciento del grupo y, en la práctica, comunica a una fracción. La equidad comunicativa depende tanto del acceso al medio como de la adecuación del lenguaje.
 
-      .row.justify-content-center.mb-4
-        .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
-          .row.mb-0
-            p Las brechas de cobertura no se reparten al azar: recaen siempre sobre los mismos grupos. Cuatro situaciones las explican en organizaciones con varias sedes o con turnos:
-            ul.lista-ul--color
-              li 
-                i.fas.fa-comment-dots
-                | Personal sin equipo asignado, que depende de medios físicos o de un tercero para enterarse.
-              li 
-                i.fas.fa-comment-dots
-                | Turnos que no coinciden con el horario de emisión de la información institucional.
-              li 
-                i.fas.fa-comment-dots
-                | Sedes con conectividad limitada, donde la consulta digital se aplaza o no ocurre.
-              li 
-                i.fas.fa-comment-dots
-                | Personal vinculado por contrato externo, que suele quedar fuera de las listas de distribución.
-            p Reconocer estas situaciones al planear la emisión, y no al evaluar el resultado, es lo que evita que la misma parte del equipo quede excluido ciclo tras ciclo hasta asumir que la información institucional no la incluye.
-        .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
-          figure
-            img(src='@/assets/curso/temas/t3/img-13.png', alt='')
+      .bg___color_2
+        .px-5
+          .row.justify-content-center.mb-4
+            .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+              .row.mb-0
+                p Las brechas de cobertura no se reparten al azar: recaen siempre sobre los mismos grupos. Cuatro situaciones las explican en organizaciones con varias sedes o con turnos:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-comment-dots
+                    span(style="color:#000 !important") Personal sin equipo asignado, que depende de medios físicos o de un tercero para enterarse.
+                  li 
+                    i.fas.fa-comment-dots
+                    span(style="color:#000 !important") Turnos que no coinciden con el horario de emisión de la información institucional.
+                  li 
+                    i.fas.fa-comment-dots
+                    span(style="color:#000 !important") Sedes con conectividad limitada, donde la consulta digital se aplaza o no ocurre.
+                  li 
+                    i.fas.fa-comment-dots
+                    span(style="color:#000 !important") Personal vinculado por contrato externo, que suele quedar fuera de las listas de distribución.
+                p Reconocer estas situaciones al planear la emisión, y no al evaluar el resultado, es lo que evita que la misma parte del equipo quede excluida ciclo tras ciclo hasta asumir que la información institucional no la incluye.
+            .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/t3/img-13.png', alt='')
 
       p.mb-4 Comprobar el alcance y la oportunidad no depende de una sola cifra, sino de un conjunto de variables que se interpretan juntas. Cada una responde por un tramo distinto del recorrido del mensaje:
 
@@ -521,7 +525,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Presentación del hecho comprobado
-                p Consiste en enunciar lo que la evidencia registra, con su alcance de grupo, periodo y acción, y sin adjetivos que anticipen una valoración. Este paso fija el terreno común desde el cual se discutirá todo lo demás.
+                p Consiste en enunciar lo que la evidencia registra, con su alcance de grupo, periodo y acción, y sin adjetivos que anticipen una valoración. Este paso fija el terreno común desde el cual se discutirá todo lo demás. Aplicación en el entorno: señalar que dos de los cuatro comunicados del trimestre no fueron consultados por el personal en turnos describe un hecho comprobable, mientras que afirmar que ese grupo no atiende la información abre una discusión sin salida.
                 p #[b Aplicación en el entorno:] señalar que dos de los cuatro comunicados del trimestre no fueron consultados por el personal en turnos describe un hecho comprobable, mientras que afirmar que ese grupo no atiende la información abre una discusión sin salida.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
@@ -529,7 +533,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Explicación del efecto sobre el trabajo
-                p Implica comparar el resultado obtenido con la meta que la estrategia había fijado para esa acción, y no con una expectativa formulada después. La comparación convierte una cifra suelta en una medida de cumplimiento.
+                p Implica precisar qué consecuencia tuvo ese hecho en la operación, de modo que la relevancia del hallazgo no dependa de la autoridad de quien lo expone. La consecuencia explicita por qué el asunto merece atención.
                 p #[b Aplicación en el entorno:] indicar que la falta de consulta obligó a repetir la información en tres jornadas distintas conecta el dato con un costo real de tiempo.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure

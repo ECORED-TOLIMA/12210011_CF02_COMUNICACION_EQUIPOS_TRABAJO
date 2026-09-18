@@ -19,7 +19,7 @@
             .col-lg-10.col-12
               p.mb-4 Una estrategia puesta en marcha no confirma por sí sola que la información esté llegando a quien debe recibirla. Entre lo planeado y lo que sucede en la jornada aparecen desfases que solo se advierten cuando alguien los busca con método y los registra. La revisión del proceso no es una evaluación final ni un balance de cierre: es un examen continuo que hace posible detectar desviaciones cuando todavía es posible corregirlas sin rehacer el trabajo.
             .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
-              p.mb-0(data-aos="fade-down") Esta revisión no implica un acto único sino en un encadenamiento de operaciones que se apoyan entre sí. Cada una toma como insumo el producto de la anterior, y ninguna puede sustituir a las demás sin que el resultado pierda respaldo. Cuando una de ellas se omite, la organización termina decidiendo con información parcial y atribuyendo al azar lo que en realidad obedece a un vacío del método.
+              p.mb-0(data-aos="fade-down") Esta revisión no implica un acto único, sino un encadenamiento de operaciones que se apoyan entre sí. Cada una toma como insumo el producto de la anterior, y ninguna puede sustituir a las demás sin que el resultado pierda respaldo. Cuando una de ellas se omite, la organización termina decidiendo con información parcial y atribuyendo al azar lo que en realidad obedece a un vacío del método.
 
       p.mb-4 La manera de nombrar un problema revela si la organización lo revisó o si apenas lo supuso. Un mismo hecho puede enunciarse como una impresión general o como una cifra que remite a un registro, y de esa diferencia depende lo que el equipo pueda decidir después. Dos formas de diagnóstico lo ilustran:
 
@@ -32,8 +32,8 @@
             .tarjeta.tarjeta--C03.px-5.py-3
               .p-4
                 h4 Diagnóstico formulado como impresión
-                p Enuncia el problema en generalidades que nadie puede comprobar ni discutir.
-                p.mb-0 #[b En la práctica:] la gente no lee los comunicados, sin precisar cuáles, en qué periodo ni en qué grupo.
+                p Enuncia el problema mediante generalidades que nadie puede comprobar ni discutir.
+                p.mb-0 #[b En la práctica:] la gente no lee los comunicados, sin precisar cuáles, en qué periodo, ni en qué grupo.
 
         .col-12.col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
           .tarjeta-avatar-b
@@ -70,7 +70,7 @@
               figure
                 img(src='@/assets/curso/temas/t2/img-07.svg', alt='')          
           h3.text-center.parrafo Verificación
-          p.parrafo.mb-0(style="color: #000 !important") #[b En el terreno:] Contrasta ese registro con evidencia obtenida mediante técnicas definidas de antemano. Responde a la pregunta por lo que puede comprobarse y separa el dato del supuesto con que suele explicarse un resultado.
+          p.parrafo.mb-0(style="color: #000 !important") Contrasta ese registro con evidencia obtenida mediante técnicas definidas de antemano. Responde a la pregunta por lo que puede comprobarse y separa el dato del supuesto con que suele explicarse un resultado.
 
         .col-lg.tarjeta.color-acento-botones.naranja.p-5 
           .row.justify-content-center.mb-4
@@ -78,7 +78,7 @@
               figure
                 img(src='@/assets/curso/temas/t2/img-08.svg', alt='')          
           h3.text-center.parrafo Análisis
-          p.parrafo.mb-0(style="color: #000 !important") #[b En el terreno:] Interpreta la evidencia frente a los objetivos y la convierte en hallazgos formulados con su alcance. Responde a la pregunta por lo que significa el dato y produce el insumo con el que se sustenta cualquier ajuste.
+          p.parrafo.mb-0(style="color: #000 !important") Interpreta la evidencia frente a los objetivos y la convierte en hallazgos formulados con su alcance. Responde a la pregunta por lo que significa el dato y produce el insumo con el que se sustenta cualquier ajuste.
 
       p.mb-4 El orden entre las tres no es intercambiable: sin registro no hay qué verificar y sin verificación el análisis interpreta impresiones. Recorrerlas completas es lo que permite que una decisión de ajuste pueda explicarse ante quien la cuestione.
 
@@ -449,6 +449,13 @@
                   td(style="background-color: #F1F8FF;") Cifras de envío, apertura, consulta o respuesta
                   td(style="background-color: #F1F8FF;") Con la periodicidad que defina el seguimiento
 
+      .row.justify-content-center.mb-4
+        .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block.svg-podcast-console
+          figure
+            img(src='@/assets/curso/temas/t2/img-45.svg', alt='')
+        .col.col-lg-9.col-12.order-lg-2.order-2
+          p.mb-0(data-aos="fade-down") La correspondencia entre instrumento, evidencia y momento evita el error más común de esta etapa, que equivale a aplicar todo al final. Un cuestionario de percepción respondido tres meses después de la acción mide memoria, no comunicación; una pauta de observación diligenciada de recuerdo no es evidencia, es opinión escrita en un formato.
+
       .row.justify-content-center
         .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
           .row.mb-0
@@ -593,7 +600,7 @@
               img(src='@/assets/curso/temas/t2/img-44.svg', alt='')
 
             .recurso-mensaje-canal__texto
-              p.mb-0 Un dato dice qué ocurrió; un hallazgo dice qué significa. Confundirlos es la forma más rápida de tomar una decisión bien intencionada y equivocada.
+              p.mb-0 Un dato dice qué ocurrió; un hallazgo dice qué significa. Confundirlos es la forma más rápida de tomar una decisión bienintencionada y equivocada.
 
           p Los hallazgos describen cómo funcionó el proceso en su conjunto. La pregunta siguiente es más específica y se dirige a cada uno de los medios por los que viajó la información: cuál cumplió su propósito, cuál llegó tarde y cuál dejó a alguien por fuera. De esa revisión se ocupa la evaluación de los canales.
 

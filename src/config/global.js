@@ -83,9 +83,9 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '3.3',
+            numero: '3.1',
             titulo: 'Eficacia y eficiencia del canal',
-            hash: 't_3_3',
+            hash: 't_3_1',
           },
           {
             numero: '3.2',

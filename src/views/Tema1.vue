@@ -60,7 +60,7 @@
             .row.justify-content-center.mb-3
               .col-lg-6.col-sm-4.col-6
                 img(src='@/assets/curso/temas/t1/img-02.svg' alt='')
-            p.text-center #[b a)] Un mismo dato circula en dos versiones. La fecha de un pago se anuncia en una cartelera y se comunica distinta por correo, sin que ninguna quede señalada como oficial. 
+            p.text-center #[b a)] Un mismo dato circula en dos versiones. La fecha de un pago se anuncia en una cartelera y se comunica de forma distinta por correo, sin que ninguna quede señalada como oficial.
           .tarjeta.tarjeta--C02.p-4
             .row.justify-content-center.mb-3
               .col-lg-6.col-sm-4.col-6
@@ -231,7 +231,7 @@
       .row.justify-content-center.mb-4
         .col.col-lg-10.col-12
           .cajon.cajon.C02.color-secundario.px-4.py-3
-            p.mb-0 La calidad de un sistema no se mide por su tecnología sino por las propiedades de la información que entrega. Un dato sirve cuando es exacto, está completo, se encuentra vigente y resulta accesible para quien lo necesita. La ausencia de cualquiera de esas cuatro condiciones produce el mismo efecto práctico: el equipo deja de confiar en el registro y regresa a preguntar por vía informal, con lo cual el sistema queda instalado y sin uso.
+            p.mb-0 La calidad de un sistema no se mide por su tecnología, sino por las propiedades de la información que entrega. Un dato sirve cuando es exacto, está completo, se encuentra vigente y resulta accesible para quien lo necesita. La ausencia de cualquiera de esas cuatro condiciones produce el mismo efecto práctico: el equipo deja de confiar en el registro y regresa a preguntar por vía informal, con lo cual el sistema queda instalado y sin uso.
 
       p.mb-4 La información que un sistema pone a disposición del equipo debe reunir las siguientes condiciones:
 
@@ -324,7 +324,7 @@
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #74DCDD !important")
         .bloque-texto-g__img.img-bg-03
         .bloque-texto-g__texto.p-4
-          p.mb-0(data-aos="fade-down") La selección importa porque el canal modifica el mensaje. Un mismo contenido presentado en una circular formal, expuesto en una reunión o recibido en un mensaje breve produce grados distintos de atención, comprensión y compromiso. Elegir mal no solo retrasa la información: puede transmitir que el asunto carece de importancia, o exagerar la gravedad de algo rutinario. 
+          p.mb-0(data-aos="fade-down") La selección importa porque el canal modifica el mensaje. Un mismo contenido, presentado en una circular formal, expuesto en una reunión o recibido en un mensaje breve, produce grados distintos de atención, comprensión y compromiso. Elegir mal no solo retrasa la información: puede transmitir que el asunto carece de importancia, o exagerar la gravedad de algo rutinario. 
 
       p.mb-4 La decisión se vuelve más exigente cuando el público no es homogéneo. Una misma entidad puede reunir a personas con jornadas, tareas y formas de vinculación distintas, y cada grupo accede a la información de una manera. Tres perfiles suelen convivir en un mismo lugar de trabajo:
 
@@ -425,7 +425,7 @@
                   td(style="background-color: #F1F8FF;") ¿Se espera que el destinatario pregunte, confirme o decida?
                   td(style="background-color: #F1F8FF;") Exige un medio que habilite retroalimentación y no solo emisión.
 
-      p.mb-4 El examen conjunto de estos criterios revela que la elección rara vez recae en un único medio. Lo habitual es que un mensaje relevante combine un canal que deje constancia con otro que asegure alcance, y que el orden entre ambos también se decida: anunciar primero y documentar después no produce el mismo efecto que documentar primero y explicar luego.
+      p.mb-4 El examen conjunto de estos criterios revela que la elección rara vez recae en un único medio. Lo habitual es que un mensaje relevante combine un canal que deje constancia con otro que asegure alcance, y que el orden entre ambos también se decida: anunciar primero y documentar después, no produce el mismo efecto que documentar primero y explicar luego.
 
       .row.justify-content-center.mb-4
         .col-lg-8.col-12

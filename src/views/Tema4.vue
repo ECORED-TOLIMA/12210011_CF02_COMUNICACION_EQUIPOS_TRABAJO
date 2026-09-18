@@ -75,7 +75,7 @@
                   img(src='@/assets/curso/temas/t4/img-06.svg', alt='')
               .col-lg-10.col-12
                 p Las señales silenciosas son las más costosas, precisamente porque no interrumpen la operación de manera abierta. Un equipo puede sostener durante meses un conflicto que solo se manifiesta en correos cada vez más formales entre dos áreas, mientras los indicadores de comunicación permanecen dentro de lo esperado. Cuando el problema se hace evidente, ya modificó la forma de trabajar de las personas.
-                p Reconocerlas a tiempo exige atender el modo del intercambio y no solo su contenido. Un cambio en la extensión de las respuestas, en el número de personas copiadas en un correo o en la elección del canal para tratar un asunto rutinario suele anticipar una tensión que nadie ha enunciado todavía.
+                p Reconocerlas a tiempo exige atender el modo del intercambio y no solo su contenido. Un cambio en la extensión de las respuestas, en el número de personas copiadas en un correo o en la elección del canal para tratar un asunto rutinario, suele anticipar una tensión que nadie ha enunciado todavía.
         .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t4/img-05.png', alt='')
@@ -146,7 +146,7 @@
       .row.justify-content-center.mb-4
         .col.col-lg-10.col-12
           .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
-            p.mb-0 La identificación temprana depende, en buena medida, de quién está en condiciones de advertirla. Quien coordina un proceso no siempre percibe el cambio de tono entre dos áreas, mientras que quienes trabajan a diario en el intercambio lo notan de inmediato. Habilitar un canal donde esas advertencias puedan plantearse sin que se interpreten como una queja aumenta de manera considerable la capacidad de intervenir a tiempo.
+            p.mb-0 La identificación temprana depende, en buena medida, de quién está en condiciones de advertirla. Quien coordina un proceso no siempre percibe el cambio de tono entre dos áreas, mientras que quienes trabajan a diario en el intercambio lo notan de inmediato. Habilitar un canal donde esas advertencias puedan plantearse sin que se interpreten como una queja, aumenta de manera considerable la capacidad de intervenir a tiempo.
           
           p El valor de un registro depende de cómo se consigna lo ocurrido, no de la cantidad de anotaciones que reúne. Conviene atender los siguientes cuidados al dejar constancia de una señal:
 

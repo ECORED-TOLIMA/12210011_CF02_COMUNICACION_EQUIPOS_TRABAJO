@@ -23,8 +23,8 @@
           .row.mb-0
             .cajon.cajon.C02.color-secundario.px-4.py-3.mb-4
               p.mb-0(data-aos="fade-down") Comprobar cómo funciona la comunicación exige método, no impresiones. Requiere seleccionar los canales con criterio, revisar el proceso mientras ocurre, medir el desempeño de cada medio con indicadores, tratar los conflictos que aparecen en el intercambio y convertir los hallazgos en decisiones de mejora. Sin ese recorrido, cualquier ajuste queda librado a la percepción de quien coordina y pierde capacidad de sustentarse ante la organización.
-            p El desarrollo avanza desde los medios por los que viaja la información hasta el documento que recoge los resultados. Primero se examinan los canales internos y los sistemas que los sostienen. Luego aparecen las técnicas e instrumentos con que se revisa el proceso y los indicadores con que se evalúa cada canal. Enseguida se abordan las estrategias para resolver los conflictos comunicativos. Por último, el uso del pensamiento creativo para proponer alternativas de mejora y consignarlas en un informe verificable.
-
+            p El desarrollo avanza desde los medios por los que viaja la información hasta el documento que recoge los resultados. Primero se examinan los canales internos y los sistemas que los sostienen. Luego aparecen las técnicas e instrumentos con que se revisa el proceso y los indicadores con que se evalúa cada canal. Enseguida se abordan las estrategias para resolver los conflictos comunicativos. Por último, se aborda el uso del pensamiento creativo para proponer alternativas de mejora y consignarlas en un informe verificable.
+            
       p.mb-4 Para comprender la importancia del contenido y los temas abordados, se recomienda acceder al siguiente video:
 
       .row.justify-content-center.align-items-center           
