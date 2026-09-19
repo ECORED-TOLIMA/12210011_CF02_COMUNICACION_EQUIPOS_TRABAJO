@@ -429,27 +429,29 @@
 
       p.mb-4 Un acuerdo se sostiene cuando queda incorporado a la manera de trabajar y no depende de la memoria de quienes lo pactaron. Eso supone consignarlo donde el equipo lo consulta, comunicarlo a quienes no participaron de la conversación y revisarlo en la fecha prevista, aunque no haya vuelto a presentarse el problema. Un compromiso que solo existe en el acta de la reunión desaparece con la rotación del personal.
 
-      .row.justify-content-center.mb-4
-        .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
-          .row.mb-0
-            p Un acuerdo escrito conserva su vigencia solo si el equipo lo mantiene activo después de la conversación que lo originó. Su continuidad depende de las siguientes acciones:
-            ul.lista-ul--color
-              li 
-                i.fas.fa-comment-dots
-                span Consignarlo en el repositorio donde el equipo consulta sus procedimientos vigentes.
-              li 
-                i.fas.fa-comment-dots
-                span Comunicarlo a las áreas que resultan afectadas, aunque no hayan participado.
-              li 
-                i.fas.fa-comment-dots
-                span Verificar la evidencia en la fecha acordada, con independencia del resultado.
-              li 
-                i.fas.fa-comment-dots
-                span Actualizar el procedimiento cuando el acuerdo demuestre funcionar en el tiempo.
-            p La actualización del procedimiento es la que convierte un acuerdo puntual en aprendizaje de la organización. Mientras el compromiso siga siendo un pacto entre dos personas, el problema regresará cuando alguna de ellas cambie de cargo.
-        .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
-          figure
-            img(src='@/assets/curso/temas/t4/img-24.png', alt='')
+      .bg___color_3
+        .px-5
+          .row.justify-content-center.mb-4
+            .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+              .row.mb-0
+                p Un acuerdo escrito conserva su vigencia solo si el equipo lo mantiene activo después de la conversación que lo originó. Su continuidad depende de las siguientes acciones:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-comment-dots
+                    span Consignarlo en el repositorio donde el equipo consulta sus procedimientos vigentes.
+                  li 
+                    i.fas.fa-comment-dots
+                    span Comunicarlo a las áreas que resultan afectadas, aunque no hayan participado.
+                  li 
+                    i.fas.fa-comment-dots
+                    span Verificar la evidencia en la fecha acordada, con independencia del resultado.
+                  li 
+                    i.fas.fa-comment-dots
+                    span Actualizar el procedimiento cuando el acuerdo demuestre funcionar en el tiempo.
+                p La actualización del procedimiento es la que convierte un acuerdo puntual en aprendizaje de la organización. Mientras el compromiso siga siendo un pacto entre dos personas, el problema regresará cuando alguna de ellas cambie de cargo.
+            .col-lg-5.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/t4/img-24.png', alt='')
 
       p.mb-4 Cinco elementos convierten una conversación en un acuerdo verificable:
 
@@ -494,7 +496,7 @@
             p.mb-0 La revisión del acuerdo merece la misma preparación que la conversación que lo originó. Llegar a esa reunión con la evidencia consultada, y no con la impresión de cómo fueron las últimas semanas, mantiene el foco en la regla acordada. Cuando la evidencia confirma que el acuerdo funcionó, vale la pena dejarlo consignado con la misma claridad, porque una regla que demostró resultado es lo que después se incorpora al procedimiento.
 
       .row.justify-content-center.mb-4
-        .col-lg-6.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+        .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
           .row.mb-0
             p.mb-4 Las tensiones que aparecen en el intercambio se comprenden mejor con situaciones cercanas a la vida laboral. El siguiente recurso de audio explica cómo se reconocen las señales de un conflicto comunicativo, en qué se diferencia negociar de imponer y qué convierte una conversación en un acuerdo que puede comprobarse.
             .bg-color-8.tarjeta
@@ -507,13 +509,13 @@
                     h4.titulo-podcast-audio.mb-3 Pódcast
 
                     TarjetaAudio.audio-custom.color-secundario.bg-color-white.mb-3(
-                      texto="XXXXXX XXXXXX"
+                      texto="Cuando el desacuerdo se vuelve silencio: conflictos comunicativos en el equipo"
                       tiempo
-                      :audio="require_src('@/assets/componentes/audios/podcast_diagnostico_accion.mp3')"
+                      :audio="require_src('@/assets/componentes/audios/podcast_conflictos_comunicativos.mp3')"
                       @audio-hover="mostrarIndicadorTarjetaAudio = false"
                     )
                       .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-        .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
+        .col-lg-3.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t4/img-31.png', alt='')
 

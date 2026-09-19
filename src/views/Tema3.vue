@@ -120,7 +120,7 @@
           .cajon.cajon.C01.color-primario.px-4.py-3
             p.mb-0 La confusión más frecuente consiste en tomar el volumen de uso como prueba de eficacia. Un canal con actividad intensa puede estar produciendo saturación en lugar de comunicación: si el equipo recibe quince mensajes diarios por el mismo medio, la cifra alta de emisiones convive con una atención cada vez menor, y el indicador de actividad oculta el problema en lugar de revelarlo.
 
-      .bg___color_2
+      .bg___color_3
         .px-5
           .row.justify-content-center.mb-4
             .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
@@ -245,7 +245,7 @@
 
       p.mb-4 La cobertura tiene también una dimensión cualitativa que las cifras de alcance no registran. No basta con que el mensaje llegue: debe llegar en condiciones de ser comprendido por quien lo recibe. Un texto redactado con vocabulario técnico para un público operativo alcanza formalmente al ciento por ciento del grupo y, en la práctica, comunica a una fracción. La equidad comunicativa depende tanto del acceso al medio como de la adecuación del lenguaje.
 
-      .bg___color_2
+      .bg___color_3
         .px-5
           .row.justify-content-center.mb-4
             .col-lg-7.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
