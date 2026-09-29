@@ -525,7 +525,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Presentación del hecho comprobado
-                p Consiste en enunciar lo que la evidencia registra, con su alcance de grupo, periodo y acción, y sin adjetivos que anticipen una valoración. Este paso fija el terreno común desde el cual se discutirá todo lo demás. Aplicación en el entorno: señalar que dos de los cuatro comunicados del trimestre no fueron consultados por el personal en turnos describe un hecho comprobable, mientras que afirmar que ese grupo no atiende la información abre una discusión sin salida.
+                p Consiste en enunciar lo que la evidencia registra, con su alcance de grupo, periodo y acción, y sin adjetivos que anticipen una valoración. Este paso fija el terreno común desde el cual se discutirá todo lo demás.
                 p #[b Aplicación en el entorno:] señalar que dos de los cuatro comunicados del trimestre no fueron consultados por el personal en turnos describe un hecho comprobable, mientras que afirmar que ese grupo no atiende la información abre una discusión sin salida.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure

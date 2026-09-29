@@ -108,7 +108,7 @@
       p.mb-4 Hacer seguimiento al avance no basta si se hace de cualquier manera. Un registro tomado al azar, disperso o apenas conversado deja al equipo sin argumentos cuando llega el momento de justificar un ajuste. Tres condiciones sostienen un seguimiento útil:
 
       .cajon.cajon.C03.p-5.mb-4
-        SlyderB(:datos="datosSlyder")
+        SlyderB(:key="slyderErroresKey" :datos="datosSlyder")
 
       .row.justify-content-center.mb-4
         .col-lg-10.col-12
@@ -607,43 +607,55 @@
 </template>
 
 <script>
-import imgSlyder11 from '@/assets/curso/temas/t2/img-11.png'
-import imgSlyder12 from '@/assets/curso/temas/t2/img-12.png'
-import imgSlyder13 from '@/assets/curso/temas/t2/img-13.png'
-
 export default {
-  name: 'Tema4',
+  name: 'Tema2',
+
   data: () => ({
     indicadorTarjetaFlip: true,
     indicadorTarjetaSlide: true,
     mostrarIndicadorTarjetaAudio: true,
+
+    slyderErroresKey: 0,
+    slyderTecnicasKey: 0,
 
     datosSlyder: [
       {
         titulo: '1. Periódico',
         texto:
           'Se repite en fechas definidas, porque una observación aislada no distingue un hecho puntual de una tendencia.',
-        imagen: imgSlyder11,
+        imagen: './assets/curso/temas/t2/img-11.png',
       },
       {
         titulo: '2. Focalizado',
         texto:
           'Se concentra en unas pocas acciones críticas, porque intentar registrar todo termina por no registrar nada útil.',
-        imagen: imgSlyder12,
+        imagen: './assets/curso/temas/t2/img-12.png',
       },
       {
         titulo: '3. Documentado',
         texto:
           'Deja constancia escrita, porque lo que solo se comenta en una reunión desaparece en la siguiente.',
-        imagen: imgSlyder13,
+        imagen: './assets/curso/temas/t2/img-13.png',
       },
     ],
   }),
+
   mounted() {
     this.$nextTick(() => {
+      this.slyderErroresKey += 1
+      this.slyderTecnicasKey += 1
       this.$aosRefresh()
     })
   },
+
+  activated() {
+    this.$nextTick(() => {
+      this.slyderErroresKey += 1
+      this.slyderTecnicasKey += 1
+      this.$aosRefresh()
+    })
+  },
+
   updated() {
     this.$aosRefresh()
   },
